@@ -15,7 +15,7 @@ Este projeto consiste em uma análise de dados de vendas usando o Excel. Foi cri
 - Gráficos de vendas por região, produto e período.
 
 ## 🖼️ Exemplos Visuais
-![Gráfico de Vendas](exemplo_dashboard.png)
+![image](https://github.com/user-attachments/assets/8b641a08-900a-4e11-b7f0-85839dc78234)
 
 ## 📂 Como usar
 Baixe o arquivo e abra no Excel para explorar as interações.
