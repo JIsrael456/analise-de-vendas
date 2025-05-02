@@ -8,7 +8,7 @@ Este projeto consiste em uma análise de dados de vendas usando o Excel. Foi cri
 ## 🛠️ Ferramentas Usadas
 - [x] Excel
   - Fórmulas: PROCV, SOMASE, MÉDIA
-  - Gráficos: Colunas, Pizza, Linha
+  - Gráficos: Colunas, Linha
 
 ## 📊 Resultados
 - Dashboard interativo com análise de vendas.
