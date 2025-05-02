@@ -1,21 +1,20 @@
-# Analise-vendas
-
-# Projeto: Análise de Vendas com Excel
+# Projeto: Análise de Vendas
 
 ## 💼 Descrição
-Este projeto consiste em uma análise de dados de vendas usando o Excel. Foi criado um dashboard interativo utilizando gráficos e fórmulas para entender as vendas por produto e região.
+Análise de vendas com foco em regiões, produtos e desempenho ao longo do tempo.
 
 ## 🛠️ Ferramentas Usadas
 - [x] Excel
-  - Fórmulas: PROCV, SOMASE, MÉDIA
-  - Gráficos: Colunas, Linha
+- [x] SQL
+- [x] Power BI
 
 ## 📊 Resultados
-- Dashboard interativo com análise de vendas.
-- Gráficos de vendas por região, produto e período.
+- Dashboard interativo
+- Gráficos de tendência
+- Resumo de métricas principais
 
 ## 🖼️ Exemplos Visuais
-![image](https://github.com/user-attachments/assets/8b641a08-900a-4e11-b7f0-85839dc78234)
+[Incluir imagens aqui]
 
 ## 📂 Como usar
-Baixe o arquivo e abra no Excel para explorar as interações.
+Baixe o arquivo, abra no software correspondente, explore os filtros ou execute o script.
